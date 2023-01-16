@@ -1,5 +1,6 @@
 {
   "name": "upskill-api-server",
+  "homepage": "https://ghzt.github.io/json-server",
   "version": "1.0.0",
   "description": "Telerik Academy API Server for Upskill Programs",
   "main": "index.js",
@@ -9,7 +10,7 @@
   "author": "Telerik Academy",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.16.2",
-    "json-server-auth": "^2.0.2"
+    "json-server": "0.16.2",
+    "json-server-auth": "2.0.2"
   }
 }
